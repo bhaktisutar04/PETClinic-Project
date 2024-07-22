@@ -106,36 +106,35 @@ Welcome to the Petclinic project, a comprehensive example of a Spring Boot appli
 4. <h1>SCREENSHORTS</h1>
 <h3>Home</h3>
 <b>Description :</b><p align="justify">This is my Home Page </p>
-<img src="./ScreenShorts/Home.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/Home.png" alt="final-project-demo"></img><br>
 
 <h3>ADD Owner</h3>
 <b>Description :</b><p align="justify">This is Onwer Page </p>
-<img src="./ScreenShorts/AddNewOwner.png" alt="final-project-demo"></img>
+<img src="./Screenshorts/AddNewOwner.png" alt="final-project-demo"></img>
 
 <h3>Owner List</h3>
 <b>Description :</b><p align="justify">This is Onwer List </p>
-<img src="./ScreenShorts/AllOwnerRecords.png" alt="final-project-demo"></img>
-
-<h3>Pet Type</h3>
-<b>Description :</b><p align="justify">From here you add new pets</p>
-<img src="./ScreenShorts/Pet.png" alt="final-project-demo"></img>
+<img src="./Screenshorts/AllOwnerRecords.png" alt="final-project-demo"></img>
 
 <h3>ADD Veternaries</h3>
 <b>Description :</b><p align="justify"> Veterneries </p>
-<img src="./ScreenShorts/ADDnewVeternairies.png" alt="final-project-demo"></img>
+<img src="./Screenshorts/ADDnewVeternairies.png" alt="final-project-demo"></img>
 
 <h3>Veterinaries</h3>
 <b>Description :</b><p align="justify">This is Veterinaries List </p>
-<img src="./ScreenShorts/Veterinaries.png" alt="final-project-demo"></img>
+<img src="./Screenshorts/Veterinaries.png" alt="final-project-demo"></img>
 
 <h3>Specalist</h3>
 <b>Description :</b><p align="justify">Add new Specalist </p>
-<img src="./ScreenShorts/SpecialistList.png" alt="final-project-demo"></img>
-
-<h3>FINAL</h3>
-<b>Description :</b><p align="justify">When we add the all owner ,per and visit information that time this page will display</p>
-<img src="./ScreenShorts/Pet.png" alt="final-project-demo"></img>
+<img src="./Screenshorts/SpecialistList.png" alt="final-project-demo"></img>
 
 
+<h3>Pet Type</h3>
+<b>Description :</b><p align="justify">From here you add new pets</p>
+<img src="./Screenshorts/Pet.png" alt="final-project-demo"></img>
+
+<h3>Final</h3>
+<b>Description :</b><p align="justify"> this Is my final output when i add all information of pet, owner and vet</p>
+<img src="./Screenshorts/Final.png" alt="final-project-demo"></img>
 
 
