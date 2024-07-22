@@ -106,15 +106,15 @@ Welcome to the Petclinic project, a comprehensive example of a Spring Boot appli
 4. <h1>SCREENSHORTS</h1>
 <h3>Home</h3>
 <b>Description :</b><p align="justify">This is my Home Page </p>
-<img src="./Screenshorts/Home.png" alt="final-project-demo"></img><br>
+<img src="../Screenshorts/Home.png" alt="final-project-demo"></img><br>
 
 <h3>ADD Owner</h3>
 <b>Description :</b><p align="justify">This is Onwer Page </p>
-<img src="./Screenshorts/AddNewOwner.png" alt="final-project-demo"></img><br>
+<img src="../Screenshorts/AddNewOwner.png" alt="final-project-demo"></img><br>
 
 <h3>Owner List</h3>
 <b>Description :</b><p align="justify">This is Onwer List </p>
-<img src="./Screenshorts/AllOwnerRecords.png" alt="final-project-demo"></img><br>
+<img src="../Screenshorts/AllOwnerRecords.png" alt="final-project-demo"></img><br>
 
 <h3>ADD Veternaries</h3>
 <b>Description :</b><p align="justify"> Veterneries </p>
