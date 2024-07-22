@@ -103,38 +103,54 @@ Welcome to the Petclinic project, a comprehensive example of a Spring Boot appli
     ```
 
 3. The backend server will start on `http://localhost:9090/`.
-4. <h1>SCREENSHORTS</h1>
-<h3>Home</h3>
-<b>Description :</b><p align="justify">This is my Home Page </p>
-<img src="./Screenshorts/Home.png" alt="final-project-demo"></img><br>
+## Screenshots
 
-<h3>ADD Owner</h3>
-<b>Description :</b><p align="justify">This is Onwer Page </p>
-<img src="./Screenshorts/AddNewOwner.png" alt="final-project-demo"></img><br>
+### Home
+**Description:** This is my Home Page
+<p align="center">
+  <img src="./Screenshorts/Home.png" alt="Home Page">
+</p>
 
-<h3>Owner List</h3>
-<b>Description :</b><p align="justify">This is Onwer List </p>
-<img src="./Screenshorts/AllOwnerRecords.png" alt="final-project-demo"></img><br>
+### Add Owner
+**Description:** This is the Owner Page
+<p align="center">
+  <img src="./Screenshorts/AddNewOwner.png" alt="Add Owner Page">
+</p>
 
-<h3>ADD Veternaries</h3>
-<b>Description :</b><p align="justify"> Veterneries </p>
-<img src="./Screenshorts/ADDnewVeternairies.png" alt="final-project-demo"></img>
+### Owner List
+**Description:** This is the Owner List
+<p align="center">
+  <img src="./Screenshorts/AllOwnerRecords.png" alt="Owner List Page">
+</p>
 
-<h3>Veterinaries</h3>
-<b>Description :</b><p align="justify">This is Veterinaries List </p>
-<img src="./Screenshorts/Veterinaries.png" alt="final-project-demo"></img>
+### Add Veterinarians
+**Description:** This is the Veterinarians Page
+<p align="center">
+  <img src="./Screenshorts/ADDnewVeternairies.png" alt="Add Veterinarians Page">
+</p>
 
-<h3>Specalist</h3>
-<b>Description :</b><p align="justify">Add new Specalist </p>
-<img src="./Screenshorts/SpecialistList.png" alt="final-project-demo"></img>
+### Veterinarians
+**Description:** This is the Veterinarians List
+<p align="center">
+  <img src="./Screenshorts/Veterinaries.png" alt="Veterinarians List Page">
+</p>
 
+### Specialist
+**Description:** Add new Specialist
+<p align="center">
+  <img src="./Screenshorts/SpecialistList.png" alt="Specialist List Page">
+</p>
 
-<h3>Pet Type</h3>
-<b>Description :</b><p align="justify">From here you add new pets</p>
-<img src="./Screenshorts/Pet.png" alt="final-project-demo"></img>
+### Pet Type
+**Description:** From here you add new pets
+<p align="center">
+  <img src="./Screenshorts/Pet.png" alt="Pet Type Page">
+</p>
 
-<h3>Final</h3>
-<b>Description :</b><p align="justify"> this Is my final output when i add all information of pet, owner and vet</p>
-<img src="./Screenshorts/Final.png" alt="final-project-demo"></img>
+### Final
+**Description:** This is my final output when I add all information of pet, owner, and veterinarian
+<p align="center">
+  <img src="./Screenshorts/Final.png" alt="Final Output">
+</p>
 
 
