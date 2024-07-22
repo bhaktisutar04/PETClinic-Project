@@ -144,7 +144,7 @@ Welcome to the Petclinic project, a comprehensive example of a Spring Boot appli
 ### Pet Type
 **Description:** From here you add new pets
 <p align="center">
-  <img src="./Screenshorts/pet.png" alt="Pet Type Page">
+  <img src="./Screenshorts/pet (2).png" alt="Pet Type Page">
 </p>
 
 ### Final
