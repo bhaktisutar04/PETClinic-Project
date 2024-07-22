@@ -106,35 +106,35 @@ Welcome to the Petclinic project, a comprehensive example of a Spring Boot appli
 4. <h1>SCREENSHORTS</h1>
 <h3>Home</h3>
 <b>Description :</b><p align="justify">This is my Home Page </p>
-<img src="../Screenshorts/Home.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/Home.png" alt="final-project-demo"></img><br>
 
 <h3>ADD Owner</h3>
 <b>Description :</b><p align="justify">This is Onwer Page </p>
-<img src="../Screenshorts/AddNewOwner.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/AddNewOwner.png" alt="final-project-demo"></img><br>
 
 <h3>Owner List</h3>
 <b>Description :</b><p align="justify">This is Onwer List </p>
-<img src="../Screenshorts/AllOwnerRecords.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/AllOwnerRecords.png" alt="final-project-demo"></img><br>
 
 <h3>ADD Veternaries</h3>
 <b>Description :</b><p align="justify"> Veterneries </p>
-<img src="./Screenshorts/ADDnewVeternairies.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/ADDnewVeternairies.png" alt="final-project-demo"></img>
 
 <h3>Veterinaries</h3>
 <b>Description :</b><p align="justify">This is Veterinaries List </p>
-<img src="./Screenshorts/Veterinaries.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/Veterinaries.png" alt="final-project-demo"></img>
 
 <h3>Specalist</h3>
 <b>Description :</b><p align="justify">Add new Specalist </p>
-<img src="./Screenshorts/SpecialistList.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/SpecialistList.png" alt="final-project-demo"></img>
 
 
 <h3>Pet Type</h3>
 <b>Description :</b><p align="justify">From here you add new pets</p>
-<img src="./Screenshorts/Pet.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/Pet.png" alt="final-project-demo"></img>
 
 <h3>Final</h3>
 <b>Description :</b><p align="justify"> this Is my final output when i add all information of pet, owner and vet</p>
-<img src="./Screenshorts/Final.png" alt="final-project-demo"></img><br>
+<img src="./Screenshorts/Final.png" alt="final-project-demo"></img>
 
 
