@@ -56,13 +56,17 @@ Welcome to the Petclinic project, a comprehensive example of a Spring Boot appli
 
 3. Check the properties defined in `application-mysql.properties`:
     ```properties
-    spring.datasource.url=jdbc:mysql://localhost:3306/petclinic?useUnicode=true
-    spring.datasource.username=pc
-    spring.datasource.password=petclinic
+    spring.datasource.url=jdbc:mysql://localhost/petclinic
+    spring.datasource.username=root
+    spring.datasource.password=Bhakti@2004
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+
     spring.jpa.database=MYSQL
-    spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
-    spring.jpa.hibernate.ddl-auto=none
+    spring.jpa.database-platform=org.hibernate.dialect.MySQL5Dialect
+    spring.jpa.hibernate.ddl-auto=update
+    spring.jpa.show-sql=true
+    server.port = 9090
     ```
 
 4. Ensure MySQL is running and create the `petclinic` database if it does not exist:
