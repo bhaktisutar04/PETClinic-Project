@@ -102,4 +102,4 @@ Welcome to the Petclinic project, a comprehensive example of a Spring Boot appli
     ./mvnw spring-boot:run
     ```
 
-3. The backend server will start on `http://localhost:8080/`.
+3. The backend server will start on `http://localhost:9090/`.
